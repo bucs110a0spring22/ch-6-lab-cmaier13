@@ -7,9 +7,19 @@ def seq3np1(n):
             n = n // 2
         else:                 
             n = n * 3 + 1
-    print(count)
-
+    print("Number of iterations: ", count)
 
 def main():
-	seq3np1(5)
+  n = int(input("Enter upper bound: "))
+  while n < 0:
+    print("Please enter a positive number") 
+    break
+
+  for start in range(1, n+1):
+    print("Current value: ", start)
+    seq3np1(start)
+    
+
+
+  
 main()
