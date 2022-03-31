@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+The first part of this lab uses a 3n+1 function and loops to determine how many iterations are necessary to reach 1. The second part of this lab shows a line graph of the data that was collected from the 3n+1 function.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2
 
-Grace days remaining: < # >/5
+Grace days remaining: 2/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+None.
 
 ## REFERENCES:
- < List any outside resources used >
+None.
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None. 
